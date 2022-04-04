@@ -1,0 +1,1 @@
+(()=>{"use strict";var o;console.log("hello"),console.log(7+o)})();
